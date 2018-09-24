@@ -1,4 +1,4 @@
-# prod-ng-shared-utilities
+# wch-site-shared-utilities
 This npm module contains a set of shared utilities leveraged in the Watson Content Hub starter site applications. See https://github.com/ibm-wch/wch-site-application for more information on the Watson Content Hub starter application.
 
 ## Prerequisites
