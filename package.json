@@ -1,7 +1,7 @@
 {
   "name": "@ibm-wch/components-ng-shared-utilities",
   "license": "MIT",
-  "version": "1.0.0",
+  "version": "1.0.15",
   "description": "npm modules for WCH SPA sites - shared components",
   "scripts": {
     "build": "npm run build:schematics && npm run build:packagr && npm run package:schematics && npm run package:data",
